@@ -1,0 +1,136 @@
+body {
+    background-color: #FFBC9C;
+    font-family:Calibri;
+    font-size:20px;
+}
+
+#paragraph1 {
+    position:relative:
+    font-family:Arial;
+    font-size:42px;
+    font-type: bold;
+    text-decoration: underline;
+    width:550px;
+    height:32px;
+    padding:5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#PI {
+    position:relative;
+    background:#FFFF00;
+    background:linear-gradient(top, #fb0, #f50);
+    background:-moz-linear-gradient(top, #fb0, #f50);
+    background:-webkit-linear-gradient(top, #fb0, #f50);
+    background:-o-linear-gradient(top, #fb0, #f50);
+    background:-ms-linear-gradient(top, #fb0, #f50);
+    border-style:solid;
+    border-width:5px;
+    font-family:Calibri;
+    font-size:28px;
+}
+
+legend{
+    position:relative;
+    font-family: Hack, Monospace;
+    font-size:28px;
+}
+#location {
+    position:relative;
+    background:linear-gradient(top, #ff3300, #ffae99);
+    background:-moz-linear-gradient(top, #ff3300, #ffae99);
+    background:-webkit-linear-gradient(top, #ff3300, #ffae99);
+    background:-o-linear-gradient(top, #ff3300, #ffae99);
+    background:-ms-linear-gradient(top, #ff3300, #ffae99);
+    border-style:solid;
+    border-width:5px;
+    font-size:28px;
+}
+input {
+    position:relative;
+    font-size:20px;
+    font-family:Monospace;
+}
+
+select {
+    position:relative;
+    font-size:20px;
+    font-family:Monospace;
+}
+
+option {
+    font-size:20px;
+    font-family:Hack, Monospace;
+}
+#firstname {
+    position:relative;
+    font-size:20px;
+}
+
+#locationLegend {
+    background:linear-gradient(top, #ff3300, #ffae99);
+    background:-moz-linear-gradient(top, #ff3300, #ffae99);
+    background:-webkit-linear-gradient(top, #ff3300, #ffae99);
+    background:-o-linear-gradient(top, #ff3300, #ffae99);
+    background:-ms-linear-gradient(top, #ff3300, #ffae99);
+}
+#personalInformation {
+    position:relative;    
+    background:linear-gradient(top, #fb0, #f50);
+    background:-moz-linear-gradient(top, #fb0, #f50);
+    background:-webkit-linear-gradient(top, #fb0, #f50);
+    background:-o-linear-gradient(top, #fb0, #f50);
+    background:-ms-linear-gradient(top, #fb0, #f50);
+    
+}
+
+#cost {
+    position:relative;
+    background:linear-gradient(top, #0000CC, #9999EB);
+    background:-moz-linear-gradient(top, #0000CC, #9999EB);
+    background:-webkit-linear-gradient(top, #0000CC, #9999EB);
+    background:-o-linear-gradient(top, #0000CC, #9999EB);
+    background:-ms-linear-gradient(top, #0000CC, #9999EB);
+    border-style:solid;
+    border-width:5px;
+    font-size:28px;
+}
+
+#incentives {
+    height:200px;
+    background-color:#ffcc99;
+}
+
+#costDouble {
+    background-color:#ffcc99;
+}
+
+#costLegend {
+    background:linear-gradient(top, #0000CC, #9999EB);
+    background:-moz-linear-gradient(top, #0000CC, #9999EB);
+    background:-webkit-linear-gradient(top, #0000CC, #9999EB);
+    background:-o-linear-gradient(top, #0000CC, #9999EB);
+    background:-ms-linear-gradient(top, #0000CC, #9999EB);
+}
+
+#results {
+    position:relative;
+    background:linear-gradient(top, #33cc33, #adebad);
+    background:-moz-linear-gradient(top, #33cc33, #adebad);
+    background:-webkit-linear-gradient(top, #33cc33, #adebad);
+    background:-o-linear-gradient(top, #33cc33, #adebad);
+    background:-ms-linear-gradient(top, #33cc33, #adebad);
+    border-style:solid;
+    border-width:5px;
+    font-size:28px;
+}
+
+#resultsLegends {
+    position:relative;
+    background:linear-gradient(top, #33cc33, #adebad);
+    background:-moz-linear-gradient(top, #33cc33, #adebad);
+    background:-webkit-linear-gradient(top, #33cc33, #adebad);
+    background:-o-linear-gradient(top, #33cc33, #adebad);
+    background:-ms-linear-gradient(top, #33cc33, #adebad);
+}
