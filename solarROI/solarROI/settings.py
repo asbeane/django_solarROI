@@ -33,12 +33,12 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'asbeanesolarroi@gmail.com'
-EMAIL_HOST_PASSWORD = 'passw0rdPa88w0rd'
-EMAIL_PORT = 587
+EMAIL_HOST = 'email.host'
+EMAIL_HOST_USER = 'email.user@domain'
+EMAIL_HOST_PASSWORD = 'passwordForEMail'
+EMAIL_PORT = 111
 EMAIL_USE_TLS = True
-DEFAULT_FROM_EMAIL = 'asbeanesolarroi@gmail.com'
+DEFAULT_FROM_EMAIL = 'email.user@domain'
 
 # Application definition
 
